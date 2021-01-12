@@ -1,6 +1,6 @@
-# Title
+# Elite-Qualifier
 
-Simple (or clever and funny?) description
+This elite qualifier consists of a chat box made for the use to interact with the computer
 
 ## Table of Contents
 
@@ -12,14 +12,13 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+User interacts with chat box for responses
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
-
+defined function then set up random responses and imported user input
 ## Usage
 
-These are the steps to use the application or interact with it.
+Run application then type what you want to say
 
 ### Any optional sections
