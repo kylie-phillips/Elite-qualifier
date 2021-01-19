@@ -24,3 +24,12 @@ Run application then type what you want to say
 ### Any optional sections
 
 Hi! My name is Hien Tam and I will be your partner for the next few classes :)
+
+## Test Plan
+
+To test the project:
+
+1. Run the test
+2. Check the results
+3. Submit test plan
+4. Review test result
